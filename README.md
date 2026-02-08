@@ -1,4 +1,4 @@
-###🚀 Data Warehouse and Analytics Project###
+******🚀 Data Warehouse and Analytics Project******
 This project showcases an end-to-end Data Warehousing and Analytics solution, covering everything from data ingestion to business-ready analytics.
 Built as a portfolio project, it demonstrates industry best practices in data engineering, data modeling, and analytics.
 
